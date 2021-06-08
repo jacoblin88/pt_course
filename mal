@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "you are hacked" > /tmp/mal_gen.txt
